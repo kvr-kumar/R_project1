@@ -4,7 +4,7 @@
 library(lubridate)
 library(tidyverse)
 library(haven)
-fg
+
 setwd("D:/R training/UpdatedCDISCPilotData-main/UpdatedCDISCPilotData-main/UpdatedCDISCPilotData")
 
 ############################################################

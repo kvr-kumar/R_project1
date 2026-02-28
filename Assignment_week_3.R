@@ -4,11 +4,11 @@
 library(lubridate)
 library(tidyverse)
 library(haven)
-
+fg
 setwd("D:/R training/UpdatedCDISCPilotData-main/UpdatedCDISCPilotData-main/UpdatedCDISCPilotData")
 
 ############################################################
-# 1. Multi-Domain Join (ADSL + VS)
+# 1. Multi-Domain Join (ADSL + VS )
 ############################################################
 
 # Read ADSL (Safety population only)
